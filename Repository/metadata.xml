@@ -3,9 +3,9 @@
  <Repository>
   <ResourceID>spase://INSU/Repository/metadata</ResourceID>
   <ResourceHeader>
-   <ResourceName>INSU Metadata Repository</ResourceName>
+   <ResourceName>CNRS-INSU Metadata Repository</ResourceName>
    <ReleaseDate>2021-04-01T00:00:00</ReleaseDate>
-   <Description>Repository for SPASE description for resources under NInstitut national des sciences de l'Univers (INSU) authority.</Description>
+   <Description>Repository for SPASE description for resources under authority of Institut National des Sciences de l'Univers (INSU), which is the astrophysics, space and Earth science branch of Centre National de la Recherche Scientifique (CNRS).</Description>
    <Contact>
     <PersonID>spase://SMWG/Person/Baptiste.Cecconi</PersonID>
     <Role>MetadataContact</Role>
